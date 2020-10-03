@@ -4,7 +4,7 @@ This code was written on a windy summer night in response to the question on the
 --------------------------------------------------------------------------------------------------
 
 If you run the code it will print a tree. You can create your own tree by changing the string, 
-which is an object called "leaftype" defined in the code.
+which is an object called "leaftypes" defined in the code.
 ("leaftypes" used as an argument to create a instance of 'Leaves' class.)
 """
 
